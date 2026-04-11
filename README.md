@@ -57,7 +57,7 @@ O objetivo é fornecer uma base sólida para desenvolvedores que desejam:
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://iili.io/BVfh5Ba.png" width="80%">
+  <img src="https://iili.io/BVqdMNf.png" width="80%">
 </p>
 
 ---
