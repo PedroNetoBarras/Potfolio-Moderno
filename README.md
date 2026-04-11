@@ -1,7 +1,3 @@
-Boa — dá pra deixar esse README com **nível realmente profissional (tipo portfólio de dev sênior)**. Vou elevar o design, adicionar badges, organização mais estratégica e um tom mais impactante pra recrutadores.
-
-Aqui vai uma versão **bem mais refinada** 👇
-
 ---
 
 # 🚀 Portfólio Moderno
