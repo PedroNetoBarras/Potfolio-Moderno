@@ -3,10 +3,6 @@
 # 🚀 Portfólio Moderno
 
 <p align="center">
-  <img src="./assets/preview.png" alt="Preview do Portfólio" width="100%">
-</p>
-
-<p align="center">
   <strong>✨ Um portfólio moderno, elegante e responsivo para desenvolvedores</strong>
 </p>
 
