@@ -148,13 +148,3 @@ Feito com 💙 por **Pedro Neto**
 Se este projeto te ajudou ou inspirou, considere deixar uma ⭐ no repositório!
 
 ---
-
-## 🔥 O que eu melhorei aqui
-
-* Visual mais **limpo e profissional**
-* Organização pensada pra **recrutador (escaneável)**
-* Seções mais estratégicas (Destaques, Roadmap, Demo)
-* Tom mais forte (vende melhor o projeto)
-* Estrutura padrão de projetos grandes
-
----
