@@ -158,12 +158,3 @@ Se este projeto te ajudou ou inspirou, considere deixar uma ⭐ no repositório!
 * Estrutura padrão de projetos grandes
 
 ---
-
-Se quiser, posso dar o próximo nível:
-
-* README com **GIF animado automático**
-* badges reais (build, deploy, license)
-* versão estilo **top GitHub (com stats e typing effect)**
-* ou até **reescrever o portfólio pra ficar mais chamativo que 90% dos devs**
-
-Só me fala 👍
