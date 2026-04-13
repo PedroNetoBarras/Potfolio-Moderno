@@ -17,7 +17,7 @@ export default function About() {
             Sobre
           </h2>
           <p className="text-[#272829] mt-4 font-sans">
-            Olá! Sou o Pedro Neto, estudante de Sistemas para Internet, formado em Administração, Professor Estadual do Curso Técnico em Administração, Servidor Público Municipal, Sócio proprietário da empresa Pntech, e um desenvolvedor apaixonado por criar produtos digitais que equilibram estética e funcionalidade.
+            Olá! Sou o Pedro Neto, estudante de Sistemas para Internet, formado em Administração, Professor Estadual do Curso Técnico em Administração, Servidor Público Municipal, Proprietário da empresa Pntech, e um desenvolvedor apaixonado por criar produtos digitais que equilibram estética e funcionalidade.
           </p>
         </div>
 
